@@ -11,7 +11,7 @@ A small Python script that downloads Dota 2 replays by Match ID and places them 
 Install dependencies:
 
 ```bash
-pip install requests zstandard
+pip install -r requirements.txt
 ```
 
 ## Usage
